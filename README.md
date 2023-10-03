@@ -16,6 +16,8 @@ Our theme for the hackathon is Cyberpunk.
 Why Cyberpunk?
 In the cyberpunk universe, the Philippines or New Philippines is a country that suffers from cultural identity loss, due to the fast technology advancement the culture itself deteriorates and Team Ignite wants to change that.
 
+## Powerpoint Presentation
+(Team Ignite)(https://docs.google.com/presentation/d/1G6cFNA_FbRnvsVAa7nDkz7k6WJ9y4_5o/edit?usp=sharing&ouid=112964215835138832642&rtpof=true&sd=true)
 
 ## Installation
 
@@ -24,9 +26,9 @@ In the cyberpunk universe, the Philippines or New Philippines is a country that 
 
 Specifications
 
--Android 8 or higher
+    Android 8 or Higher
 
--64-bit Arm-based CPU
+    64=bit Arm-based CPU
 
 -Compatible GPUs
 
