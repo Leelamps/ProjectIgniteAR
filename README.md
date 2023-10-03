@@ -26,9 +26,9 @@ In the cyberpunk universe, the Philippines or New Philippines is a country that 
 
 Specifications
 
--Android 8 or higher
+    Android 8 or Higher
 
--64-bit Arm-based CPU
+    64=bit Arm-based CPU
 
 -Compatible GPUs
 
